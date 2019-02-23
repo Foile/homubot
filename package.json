@@ -1,0 +1,24 @@
+{
+  "name": "shabolda",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "delay": "^4.1.0",
+    "dotenv": "^6.2.0",
+    "moment": "^2.24.0",
+    "mongoose": "^5.4.13",
+    "socks5-https-client": "^1.2.1",
+    "telegraf": "^3.27.1",
+    "telegraf-i18n": "^6.4.0"
+  },
+  "devDependencies": {
+    "asciichart": "^1.5.7",
+    "ervy": "^1.0.4"
+  }
+}
