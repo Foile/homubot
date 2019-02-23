@@ -2,7 +2,7 @@ const Composer = require('telegraf/composer')
 
 const composer = new Composer()
 
-composer.hears([/^ты меня уважаешь\?/i, /^\/f/], ({ i18n, state, replyWithHTML}) => {
+composer.hears([/^ты меня уважаешь\?/i, /^\/respect/], ({ i18n, state, replyWithHTML}) => {
   let index = respectIndex(state.user.respect)
   let status = i18n.t(`respect.r${index}`)
   replyWithHTML(status)

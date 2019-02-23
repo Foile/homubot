@@ -4,7 +4,7 @@ const config = require('./config')
 const SocksAgent = require('socks5-https-client/lib/Agent')
 const Telegraf = require('telegraf')
 const TelegrafI18n = require('telegraf-i18n')
-const userInfo = require('./midddlewares/user-info.middleware')
+const userInfo = require('./middlewares/user-info.middleware')
 const events = require('./events')
 const workers = require('./workers')
 
