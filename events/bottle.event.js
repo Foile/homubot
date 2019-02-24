@@ -30,7 +30,7 @@ composer.hears(/^\/bottle/, async ({ i18n, state, replyWithHTML, telegram}) => {
 
   await delay(3000)
 
-  index = randi(184)
+  index = randi(163)
   text += '\n' + i18n.t('bottle.spin.stop', { name: `@${username}` }) +
           ' ' + i18n.t(`bottle.action${index}`, { target: `@${target}` })
   telegram.editMessageText(chatId, messageId, null, text)
