@@ -39,168 +39,168 @@ bottle:
     start: ${name} раскручивает бутылочку…
     wait: Бутылка крутится… вертится… останавливается и указывает на…
     stop: Сейчас ${name} придется
-  target1: целовать ${target}!
-  target2: обнять ${target}!
-  target3: поцеловать в губы ${target}!
-  target4: высосать мозг у ${target}!
-  target5: угостить пивом ${target}!
-  target7: откусить ухо у ${target}!
-  target8: сказать приятную вещь ${target}!
-  target9: сделать все что захочет с ${target}!
-  target10: насрать за шиворот ${target}!
-  target11: чмокнуть в щечку ${target}!
-  target12: рассказать о своих чувствах к ${target}!
-  target13: дать пинка ${target}!
-  target14: купить торт ${target}!
-  target15: дать подзатыльник ${target}!
-  target16: дернуть за ухо ${target}!
-  target17: накормить чипсами ${target}!
-  target18: выпить стакан теплой крови за здоровье ${target}!
-  target19: постирать трусы ${target}!
-  target20: уронить батарею на ногу ${target}!
-  target21: отдаться ${target}!
-  target23: толкнуть под поезд ${target}!
-  target26: сделать нежный минет ${target}!
-  target27: отрубить руку ${target}!
-  target28: кинуть кирпич в ${target}!
-  target29: пнуть ${target}!
-  target30: ударить битой по ${target}!
-  target31: пристрелить ${target}!
-  target32: почесать яйца ${target}!
-  target33: воткнуть нож в ${target}!
-  target34: переспать с ${target}!
-  target35: извалять в грязи ${target}!
-  target37: подарить новенький мерс ${target}!
-  target38: сделать ремонт в квартире ${target}!
-  target39: покатать на машине ${target}!
-  target40: пригласить в гости ${target}!
-  target41: погладить шнурки ${target}!
-  target42: извиниться за все перед ${target}!
-  target45: поковырять в носу ${target}!
-  target47: понюхать ${target}!
-  target48: накурить ${target}!
-  target49: потанцевать ${target}!
-  target50: улыбнуться ${target}!
-  target51: отшлепать ${target}!
-  target52: сделать все, что угодно ${target}!
-  target53: уединиться с ${target}!
-  target54: подарить подарок ${target}!
-  target55: шлепнуть ${target}!
-  target56: чмокнуть ${target}!
-  target57: пощупать ${target}!
-  target58: купить пива ${target}!
-  target62: пригласить на чашку чая ${target}!
-  target63: пригласить на чашку кофе ${target}!
-  target64: дать в глаз ${target}!
-  target65: разбить эту самую бутылочку об ${target}!
-  target66: поцеловать в ушко ${target}!
-  target67: спеть рождественскую букву ${target}!
-  target68: прижаться к ${target}!
-  target69: потыкать ${target}!
-  target70: поклониться ${target}!
-  target71: подарить свою ласку ${target}!
-  target72: облизать ${target}!
-  target73: прочитать молитву ${target}!
-  target74: наказать ${target}!
-  target75: сделать массаж ${target}!
-  target76: кинуть снежком в ${target}!
-  target77: дать пощечину ${target}!
-  target78: открутить голову ${target}!
-  target79: сделать все что захочет ${target}!
-  target80: рассказать о своих чувствах ${target}!
-  target82: подмигнуть левым глазом ${target}!
-  target83: подмигнуть правым глазом ${target}!
-  target85: принести Coca-Cola ${target}!
-  target86: угостить йогуртом ${target}!
-  target87: почесать за ушком ${target}!
-  target88: поставить в игнор ${target}!
-  target92: подарить букет красных роз ${target}!
-  target93: подарить розу ${target}!
-  target94: нежно чмокнуть ${target}!
-  target95: плюнуть в ${target}!
-  target96: ущепнуть ${target}!
-  target97: ударить ${target}!
-  target98: побить ${target}!
-  target99: поцеловать взасос ${target}!
-  target100: крепко обнять ${target}!
-  target101: взять нежно за бедра и поцеловать в губы ${target}!
-  target102: обматерить ${target}!
-  target103: ударить ногой в пах ${target}!
-  target104: оказать услугу ${target}!
-  target105: позвонить и поговорить с ${target}!
-  target108: укусить ${target}!
-  target109: поставить волшебный пендель ${target}!
-  target110: накормить креветками ${target}!
-  target111: облить холодной водой ${target}!
-  target112: испугать ${target}!
-  target113: приласкать ${target}!
-  target114: поцеловать руку ${target}!
-  target115: сделать предложение ${target}!
-  target116: залесть на ${target}!
-  target117: обцеловать ${target}!
-  target118: постирать носки ${target}!
-  target119: подарить букет белых роз ${target}!
-  target120: сделать все, что угодно для ${target}!
-  target122: поцеловать нежно в губы ${target}!
-  target123: пододвинуться поближе и поцеловать в лобик ${target}!
-  target124: снять эротично трусики с ${target}!
-  target125: поцеловать в щечку ${target}!
-  target126: сказать, что любишь ${target}!
-  target127: погладить по головке ${target}!
-  target128: пожать руку ${target}!
-  target129: пошлепать по попке ${target}!
-  target130: ущепнуть за сосок ${target}!
-  target131: оттянуть трусы и отпустить у ${target}!
-  target132: полизать мочки ушей у ${target}!
-  target133: полизать пятки у ${target}!
-  target134: принести пива ${target}!
-  target135: облизать ушко у ${target}!
-  target136: поцеловать в носик ${target}!
-  target137: сексуально снять свои трусики и передать ${target}!
-  target138: нежно покусывать мочки ушей у ${target}!
-  target139: нагрубить а потом извиниться и поцеловать ${target}!
-  target140: нагрубить и жестко послать ${target}!
-  target141: взять в зубы розу и станцевать танго с ${target}!
-  target143: крепко обнять и подарить романтический поцелуй ${target}!
-  target144: приготовить поесть ${target}!
-  target145: снять с себя всю одежду и станцевать перед ${target}!
-  target146: станцевать стриптиз перед ${target}!
-  target147: сказать все, что ты хочешь ${target}!
-  target148: показать свою попку ${target}!
-  target149: побегать голышом вокруг ${target}!
-  target150: встать раком перед ${target}!
-  target151: принять ванну с ${target}!
-  target152: подарить жвачку ${target}!
-  target153: потереть спинку в ванной у ${target}!
-  target154: пропылесосить квартиру ${target}!
-  target155: полить цветы ${target}!
-  target156: подарить машину ${target}!
-  target158: облить кофе ${target}!
-  target159: ошпарить утюгом ${target}!
-  target160: шлепнуть по 100гр водки с ${target}!
-  target161: двинуть со всей дури ${target}!
-  target162: покрутить соски у ${target}!
-  target163: потанцевать с ${target}!
-  target164: долбануть ключом на 36 по ${target}!
-  target165: обрыгать ${target}!
-  target166: поиграть на гитаре для ${target}!
-  target167: засунуть мышку в подмышку ${target}!
-  target168: зарэзать ${target}!
-  target169: хряпнуть висячку у ${target}!
-  target170: засунуть таракана в трусы ${target}!
-  target171: загрызть ${target}!
-  target172: рассказать всем, что носитель сифилиса - это ${target}!
-  target173: отхлестать по заднице ${target}!
-  target174: пукнуть в сторону ${target}!
-  target175: стырить туалетную бумагу из толчка ${target}!
-  target177: дать свой номер телефона ${target}!
-  target178: разбить бутылку шампанского об голову ${target}!
-  target179: накормить ${target}!
-  target180: накормить поганками ${target}!
-  target181: подмешать йаду в еду ${target}!
-  target182: нажать кнопку POWER OFF на торцовой части туловища ${target}!
-  target183: поразить сокрушающим удором по голове ${target}!
-  target184: трахнуть ${target}!
+  action1: целовать ${target}!
+  action2: обнять ${target}!
+  action3: поцеловать в губы ${target}!
+  action4: высосать мозг у ${target}!
+  action5: угостить пивом ${target}!
+  action7: откусить ухо у ${target}!
+  action8: сказать приятную вещь ${target}!
+  action9: сделать все что захочет с ${target}!
+  action10: насрать за шиворот ${target}!
+  action11: чмокнуть в щечку ${target}!
+  action12: рассказать о своих чувствах к ${target}!
+  action13: дать пинка ${target}!
+  action14: купить торт ${target}!
+  action15: дать подзатыльник ${target}!
+  action16: дернуть за ухо ${target}!
+  action17: накормить чипсами ${target}!
+  action18: выпить стакан теплой крови за здоровье ${target}!
+  action19: постирать трусы ${target}!
+  action20: уронить батарею на ногу ${target}!
+  action21: отдаться ${target}!
+  action23: толкнуть под поезд ${target}!
+  action26: сделать нежный минет ${target}!
+  action27: отрубить руку ${target}!
+  action28: кинуть кирпич в ${target}!
+  action29: пнуть ${target}!
+  action30: ударить битой по ${target}!
+  action31: пристрелить ${target}!
+  action32: почесать яйца ${target}!
+  action33: воткнуть нож в ${target}!
+  action34: переспать с ${target}!
+  action35: извалять в грязи ${target}!
+  action37: подарить новенький мерс ${target}!
+  action38: сделать ремонт в квартире ${target}!
+  action39: покатать на машине ${target}!
+  action40: пригласить в гости ${target}!
+  action41: погладить шнурки ${target}!
+  action42: извиниться за все перед ${target}!
+  action45: поковырять в носу ${target}!
+  action47: понюхать ${target}!
+  action48: накурить ${target}!
+  action49: потанцевать ${target}!
+  action50: улыбнуться ${target}!
+  action51: отшлепать ${target}!
+  action52: сделать все, что угодно ${target}!
+  action53: уединиться с ${target}!
+  action54: подарить подарок ${target}!
+  action55: шлепнуть ${target}!
+  action56: чмокнуть ${target}!
+  action57: пощупать ${target}!
+  action58: купить пива ${target}!
+  action62: пригласить на чашку чая ${target}!
+  action63: пригласить на чашку кофе ${target}!
+  action64: дать в глаз ${target}!
+  action65: разбить эту самую бутылочку об ${target}!
+  action66: поцеловать в ушко ${target}!
+  action67: спеть рождественскую букву ${target}!
+  action68: прижаться к ${target}!
+  action69: потыкать ${target}!
+  action70: поклониться ${target}!
+  action71: подарить свою ласку ${target}!
+  action72: облизать ${target}!
+  action73: прочитать молитву ${target}!
+  action74: наказать ${target}!
+  action75: сделать массаж ${target}!
+  action76: кинуть снежком в ${target}!
+  action77: дать пощечину ${target}!
+  action78: открутить голову ${target}!
+  action79: сделать все что захочет ${target}!
+  action80: рассказать о своих чувствах ${target}!
+  action82: подмигнуть левым глазом ${target}!
+  action83: подмигнуть правым глазом ${target}!
+  action85: принести Coca-Cola ${target}!
+  action86: угостить йогуртом ${target}!
+  action87: почесать за ушком ${target}!
+  action88: поставить в игнор ${target}!
+  action92: подарить букет красных роз ${target}!
+  action93: подарить розу ${target}!
+  action94: нежно чмокнуть ${target}!
+  action95: плюнуть в ${target}!
+  action96: ущепнуть ${target}!
+  action97: ударить ${target}!
+  action98: побить ${target}!
+  action99: поцеловать взасос ${target}!
+  action100: крепко обнять ${target}!
+  action101: взять нежно за бедра и поцеловать в губы ${target}!
+  action102: обматерить ${target}!
+  action103: ударить ногой в пах ${target}!
+  action104: оказать услугу ${target}!
+  action105: позвонить и поговорить с ${target}!
+  action108: укусить ${target}!
+  action109: поставить волшебный пендель ${target}!
+  action110: накормить креветками ${target}!
+  action111: облить холодной водой ${target}!
+  action112: испугать ${target}!
+  action113: приласкать ${target}!
+  action114: поцеловать руку ${target}!
+  action115: сделать предложение ${target}!
+  action116: залесть на ${target}!
+  action117: обцеловать ${target}!
+  action118: постирать носки ${target}!
+  action119: подарить букет белых роз ${target}!
+  action120: сделать все, что угодно для ${target}!
+  action122: поцеловать нежно в губы ${target}!
+  action123: пододвинуться поближе и поцеловать в лобик ${target}!
+  action124: снять эротично трусики с ${target}!
+  action125: поцеловать в щечку ${target}!
+  action126: сказать, что любишь ${target}!
+  action127: погладить по головке ${target}!
+  action128: пожать руку ${target}!
+  action129: пошлепать по попке ${target}!
+  action130: ущепнуть за сосок ${target}!
+  action131: оттянуть трусы и отпустить у ${target}!
+  action132: полизать мочки ушей у ${target}!
+  action133: полизать пятки у ${target}!
+  action134: принести пива ${target}!
+  action135: облизать ушко у ${target}!
+  action136: поцеловать в носик ${target}!
+  action137: сексуально снять свои трусики и передать ${target}!
+  action138: нежно покусывать мочки ушей у ${target}!
+  action139: нагрубить а потом извиниться и поцеловать ${target}!
+  action140: нагрубить и жестко послать ${target}!
+  action141: взять в зубы розу и станцевать танго с ${target}!
+  action143: крепко обнять и подарить романтический поцелуй ${target}!
+  action144: приготовить поесть ${target}!
+  action145: снять с себя всю одежду и станцевать перед ${target}!
+  action146: станцевать стриптиз перед ${target}!
+  action147: сказать все, что ты хочешь ${target}!
+  action148: показать свою попку ${target}!
+  action149: побегать голышом вокруг ${target}!
+  action150: встать раком перед ${target}!
+  action151: принять ванну с ${target}!
+  action152: подарить жвачку ${target}!
+  action153: потереть спинку в ванной у ${target}!
+  action154: пропылесосить квартиру ${target}!
+  action155: полить цветы ${target}!
+  action156: подарить машину ${target}!
+  action158: облить кофе ${target}!
+  action159: ошпарить утюгом ${target}!
+  action160: шлепнуть по 100гр водки с ${target}!
+  action161: двинуть со всей дури ${target}!
+  action162: покрутить соски у ${target}!
+  action163: потанцевать с ${target}!
+  action164: долбануть ключом на 36 по ${target}!
+  action165: обрыгать ${target}!
+  action166: поиграть на гитаре для ${target}!
+  action167: засунуть мышку в подмышку ${target}!
+  action168: зарэзать ${target}!
+  action169: хряпнуть висячку у ${target}!
+  action170: засунуть таракана в трусы ${target}!
+  action171: загрызть ${target}!
+  action172: рассказать всем, что носитель сифилиса - это ${target}!
+  action173: отхлестать по заднице ${target}!
+  action174: пукнуть в сторону ${target}!
+  action175: стырить туалетную бумагу из толчка ${target}!
+  action177: дать свой номер телефона ${target}!
+  action178: разбить бутылку шампанского об голову ${target}!
+  action179: накормить ${target}!
+  action180: накормить поганками ${target}!
+  action181: подмешать йаду в еду ${target}!
+  action182: нажать кнопку POWER OFF на торцовой части туловища ${target}!
+  action183: поразить сокрушающим удором по голове ${target}!
+  action184: трахнуть ${target}!
 
 
 # Не то, чтобы да, но скорее нет
