@@ -21,6 +21,9 @@ module.exports = {
       { name: 'Таверна Алхимиков', chatId: -1001372104062 },
       { name: '🎖Test Squad', chatId: -1001405113945, },
     ],
-    drinkInterval: 900000
+    drink: {
+      interval: 900000,
+      expiry: 3600000
+    }
   }
 }

@@ -5,23 +5,20 @@ const { randi, randex } = require('../helpers/rand.helper')
 const composer = new Composer()
 
 composer.hears(/^\/drink/, async ({ i18n, state, replyWithHTML}) => {
-  let telegramId = state.user.telegramId
+  let telegramId = state.user.telegramId,
+      text = '',
+      respect,
+      index = randi(3)
 
   let drink = await Drinks.findOneAndDelete({ telegramId })
-  let text = '', respect, index = randi(3)
   if (drink) {
     text = i18n.t(`drink.respect${index}`)
     respect = 10
   } else {
     text = i18n.t(`drink.fail${index}`)
-    respect = -10
+    respect = -2
   }
-  let res
-  try {
-    res = await Users.findOneAndUpdate({ telegramId }, { $inc: { respect } })
-  } catch(err) {
-    console.log(err)
-  }
+  Users.findOneAndUpdate({ telegramId }, { $inc: { respect } })
 
   replyWithHTML(text)
 })

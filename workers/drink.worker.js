@@ -20,10 +20,14 @@ const drinkJob = async (bot, i18n) => {
   let messageId = res.message_id
 
   new Drinks({ telegramId, username, nick, chatId, messageId }).save()
+
+  setTimeout(() => {
+    bot.telegram.deleteMessage(chatId, messageId)
+  }, options.drink.expiry)
 }
 
 module.exports = (bot, i18n) => {
-  setInterval(() => drinkJob(bot, i18n), options.drinkInterval)
+  setInterval(() => drinkJob(bot, i18n), options.drink.interval)
 }
 
 let drunkenVowel = () => 'aeiouy~'[randex(7)].replace('~', '…<i>hic</i>…')
