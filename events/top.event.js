@@ -7,6 +7,8 @@ composer.hears(/^\/top/, async ({ i18n, replyWithHTML}) => {
   let users = await Users.find({ isBot: false })
   if (!users) return
 
+  users = users.sort((a, b) => b.respect - a.respect )
+
   let text = i18n.t('top.start') + '\n'
   text += users.map((user, i) => {
     let res = i18n.t('top.row', { i: i + 1, fullname: user.username })
