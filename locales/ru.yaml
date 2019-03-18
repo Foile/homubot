@@ -60,13 +60,13 @@ bottle:
   action20: уронить батарею на ногу ${target}!
   action21: отдаться ${target}!
   action22: толкнуть под поезд ${target}!
-  action23: сделать нежный минет ${target}!
+  action23: сделать нежный массаж ${target}!
   action24: отрубить руку ${target}!
-  action25: кинуть кирпич в ${target}!
+  action25: кинуть bauxite в ${target}!
   action26: пнуть ${target}!
   action27: ударить битой по ${target}!
   action28: пристрелить ${target}!
-  action29: почесать яйца ${target}!
+  action29: почесать coke ${target}!
   action30: воткнуть нож в ${target}!
   action31: переспать с ${target}!
   action32: извалять в грязи ${target}!
@@ -78,7 +78,7 @@ bottle:
   action38: извиниться за все перед ${target}!
   action39: поковырять в носу ${target}!
   action40: понюхать ${target}!
-  action41: накурить ${target}!
+  action41: нахохлить ${target}!
   action42: потанцевать ${target}!
   action43: улыбнуться ${target}!
   action44: отшлепать ${target}!
@@ -118,7 +118,7 @@ bottle:
   action78: подарить розу ${target}!
   action79: нежно чмокнуть ${target}!
   action80: плюнуть в ${target}!
-  action81: ущепнуть ${target}!
+  action81: ущипнуть ${target}!
   action82: ударить ${target}!
   action83: побить ${target}!
   action84: поцеловать взасос ${target}!
@@ -136,11 +136,11 @@ bottle:
   action96: приласкать ${target}!
   action97: поцеловать руку ${target}!
   action98: сделать предложение ${target}!
-  action99: залесть на ${target}!
+  action99: залезть на ${target}!
   action100: обцеловать ${target}!
   action101: постирать носки ${target}!
   action102: подарить букет белых роз ${target}!
-  action103: сделать все, что угодно для ${target}!
+  action103: сделать все что угодно для ${target}!
   action104: поцеловать нежно в губы ${target}!
   action105: пододвинуться поближе и поцеловать в лобик ${target}!
   action106: снять эротично трусики с ${target}!
@@ -149,18 +149,18 @@ bottle:
   action109: погладить по головке ${target}!
   action110: пожать руку ${target}!
   action111: пошлепать по попке ${target}!
-  action112: ущепнуть за сосок ${target}!
+  action112: ущипнуть за сосок ${target}!
   action113: оттянуть трусы и отпустить у ${target}!
-  action114: полизать мочки ушей у ${target}!
-  action115: полизать пятки у ${target}!
-  action116: принести пива ${target}!
-  action117: облизать ушко у ${target}!
-  action118: поцеловать в носик ${target}!
+  action114: полизать мочки ушей ${target}!
+  action115: пощекотать пятки ${target}!
+  action116: принести пива для ${target}!
+  action117: облизать ушко ${target}!
+  action118: поцеловать ${target} в носик!
   action119: сексуально снять свои трусики и передать ${target}!
   action120: нежно покусывать мочки ушей у ${target}!
-  action121: нагрубить а потом извиниться и поцеловать ${target}!
+  action121: нагрубить, а потом извиниться и поцеловать ${target}!
   action122: нагрубить и жестко послать ${target}!
-  action123: взять в зубы розу и станцевать танго с ${target}!
+  action123: взять в зубы розу и станцевать бачату с ${target}!
   action124: крепко обнять и подарить романтический поцелуй ${target}!
   action125: приготовить поесть ${target}!
   action126: снять с себя всю одежду и станцевать перед ${target}!
@@ -182,7 +182,7 @@ bottle:
   action142: покрутить соски у ${target}!
   action143: потанцевать с ${target}!
   action144: долбануть ключом на 36 по ${target}!
-  action145: обрыгать ${target}!
+  action145: сыграть в дурака на раздевание с ${target}!
   action146: поиграть на гитаре для ${target}!
   action147: засунуть мышку в подмышку ${target}!
   action148: зарэзать ${target}!
@@ -198,11 +198,13 @@ bottle:
   action158: накормить ${target}!
   action159: накормить поганками ${target}!
   action160: подмешать йаду в еду ${target}!
-  action161: нажать кнопку POWER OFF на торцовой части туловища ${target}!
-  action162: поразить сокрушающим удором по голове ${target}!
-  action163: трахнуть ${target}!
-
-
+  action161: нажать кнопку POWER OFF на торцевой части туловища ${target}!
+  action162: поразить сокрушающим ударом по голове ${target}!
+  action163: потрясти ${target}!
+  action164: потянуть за выступающую часть ${target}!
+  action165: взять пример с ${target}!
+  action166: помять ${target}!
+  
 # Не то, чтобы да, но скорее нет
 # Всегда думал, что ты сволочь, и теперь уверен
 
